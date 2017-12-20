@@ -17,3 +17,4 @@ run
 * `ionic cordova platform add ios`
 * `ionic cordova platform add browser`
 * `ionic cordova prepare`
+* `ionic cordova run browser`
