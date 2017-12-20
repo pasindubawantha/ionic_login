@@ -2,11 +2,11 @@
 
 change 
 
-`<widget id="`**com.mycompany.testapp**`" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">`
+`<widget id="`**io.ionic.starter**`" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">`
 
 to
 
-`<widget id="`**com.ieeess.slsywc17-mobile-app**`" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">`
+`<widget id="`**com.ieeess.slsywc17_mobile_app**`" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">`
 
 ---
 run 
